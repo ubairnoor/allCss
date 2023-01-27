@@ -9,25 +9,13 @@ h1 {
   font-weight: 600;
 }
 
-/* selector */
-
-div,
-p,
-h2,
-h1 {
-  color: yellow;
-}
-/* child  inside the Div*/
-div h2 {
-  color: red;
-}
-/*siblings after  the division  */
-div + p {
-  color: green;
-}
-/* heading */
 div ~ h2 {
   color: purple;
+}
+
+div h1 {
+  background: grey;
+  color: blue;
 }
 
 
