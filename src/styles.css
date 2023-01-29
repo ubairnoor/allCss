@@ -11,4 +11,11 @@ div {
   color: #fff;
   text-align: center;
   line-height: 200px;
+  /* outline: its a border but its outside */
+  outline: 5px dotted green;
+  /*outline has same style as border*/
+}
+
+a:focus {
+  outline: 0;
 }
