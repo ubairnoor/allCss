@@ -3,6 +3,6 @@ body {
 }
 div {
   border: solid green;
-  border-width: 10px;
-  border-style: inset;
+  border-width: 25px;
+  border-style: dashed;
 }
