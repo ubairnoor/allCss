@@ -1,21 +1,18 @@
 body {
   font-family: sans-serif;
-
+  background-color: yellow;
 }
-div#app> p{
+div#app > p {
   color: greenyellow;
   border: 1px solid green;
-  background:yellow;
+  background: yellow;
 }
 
-
-div#app p{
-  
+div#app p {
   color: blue;
   border: 1px solid red;
-  background:red;
+  background: red;
 }
-
 
 
 /*# sourceMappingURL=/styles.dd855970.css.map */
