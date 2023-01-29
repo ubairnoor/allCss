@@ -1,22 +1,21 @@
 body {
   font-family: sans-serif;
+
+}
+div#app> p{
+  color: greenyellow;
+  border: 1px solid green;
+  background:yellow;
 }
 
-h1 {
-  color: red;
-  background: black;
-  display: inline;
-  font-weight: 600;
-}
 
-div ~ h2 {
-  color: purple;
-}
-
-div h1 {
-  background: grey;
+div#app p{
+  
   color: blue;
+  border: 1px solid red;
+  background:red;
 }
+
 
 
 /*# sourceMappingURL=/src.a2b27638.css.map */
