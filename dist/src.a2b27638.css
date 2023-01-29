@@ -12,7 +12,7 @@ div {
   text-align: center;
   line-height: 200px;
   /* outline: its a border but its outside */
-  outline: 5px dashed green;
+  outline: 20px inset red;
   /*outline has same style as border*/
 }
 
