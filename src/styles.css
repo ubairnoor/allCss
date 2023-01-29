@@ -2,7 +2,6 @@ body {
   font-family: sans-serif;
 }
 div {
-  border: solid green;
-  border-width: 25px;
-  border-style: dashed;
+  /* we can write in one line */
+  border: 25px inset green;
 }
