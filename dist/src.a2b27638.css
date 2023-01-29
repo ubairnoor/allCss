@@ -4,6 +4,13 @@ body {
 div {
   /* we can write in one line */
   border: 25px inset green;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  line-height: 200px;
 }
 
 
