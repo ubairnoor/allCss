@@ -1,3 +1,6 @@
+html {
+  font-size: 32px;
+} 
 body {
   font-family: sans-serif;
   font-family: 22px;
@@ -6,6 +9,7 @@ body {
 }
 p {
   color: #033d7f;
+  font-size: 20px;
   /*color: #fff shorthand one F represent pair 
   color: #000  represent #000000
   color : #000000;
